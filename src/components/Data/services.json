@@ -1,53 +1,53 @@
 [
     {
         "id": 1,
-        "name1": "Search engine",
-        "name2": "optimization",
+        "name1": "Desparacitacion",
+        "name2": "Inyecciones",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
-        "image": "./services/01.svg"
+        "image": "./services/parasite.svg"
     },
     {
         "id": 2,
-        "name1": "Pay-per-click",
-        "name2": "advertising",
+        "name1": "Consultas",
+        "name2": "Animales Exoticos",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
-        "image": "./services/02.svg"
+        "image": "./services/monkey.svg"
     },
     {
         "id": 3,
-        "name1": "Social Media",
-        "name2": "Marketing",
+        "name1": "Cirugias",
+        "name2": "",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",
-        "image": "./services/03.svg"
+        "image": "./services/surgery2.svg"
     },
     {
         "id": 4,
-        "name1": "Email",
-        "name2": "Marketing",
+        "name1": "Laboratorios",
+        "name2": "Quimicas",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
-        "image": "./services/04.svg"
+        "image": "./services/lab.svg"
     },
     {
         "id": 5,
-        "name1": "Content",
-        "name2": "Creation",
+        "name1": "Pensiones",
+        "name2": "Cuidados a internos",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow-card border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
-        "image": "./services/05.svg"
+        "image": "./services/catcage.svg"
     },
     {
         "id": 6,
-        "name1": "Analytics and",
-        "name2": "Tracking",
+        "name1": "Otros",
+        "name2": ":D",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow-card border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
         "link": "./",

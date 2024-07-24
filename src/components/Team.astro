@@ -7,7 +7,7 @@ import Collapse from "./Collapse.astro";
 ---
 <Container>
 <div class="relative flex flex-col items-center md:flex-row">
-    <Topic title="Process" description="Step-by-Step Guide to Achieving Your Business Goals"/>
+    <Topic title="Preguntas frecuentes" description="Una pequeña guia para resolver dudas del dia a dia"/>
 </div>
 
 <div class="my-6">
@@ -23,7 +23,7 @@ import Collapse from "./Collapse.astro";
 </div>
 
 <div class="relative flex flex-col items-center md:flex-row pt-6">
-    <Topic title="Team" description="Meet the skilled and experienced team behind our successful digital marketing strategies"/>
+    <Topic title="Nuesto Equipo" description="Conoce a la manos profesionales que atenderan a tu compañero"/>
 </div>
 
 <div class="flex-row items-center py-5" id="team">
@@ -34,8 +34,8 @@ import Collapse from "./Collapse.astro";
         <div class="flex-col justify-start items-start gap-7 flex">
             <div class="self-stretch justify-start items-start inline-flex">
                 <div class="grow shrink basis-0 justify-start items-center gap-8 flex">
-                    <div class="h-[102.82px] left-0 top-0 relative">
-                        <img src={profile} alt={name}/>
+                    <div class="h-20 w-20  left-0 top-0 relative">
+                        <img src={profile} alt={name} class="rounded-full"/>
                     </div>
                     <div class="flex-col justify-end items-start inline-flex">
                         <div class="text-lg font-normal">{title}</div>

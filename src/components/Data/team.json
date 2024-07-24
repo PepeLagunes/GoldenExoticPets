@@ -2,23 +2,23 @@
     "team":
     [
         {
-            "title": "CEO and Founder",
-            "name": "John Smith",
-            "description": "10+ years of experience in digital marketing. Expertise in SEO, PPC, and content strategy",
-            "profile": "/team/c1.png",
+            "title": "Dueña",
+            "name": "Dra. Diana",
+            "description": "Mas de 15 años con experiencia en animales domesticos y cirugias en ellos",
+            "profile": "/team/diana.png",
             "link": "/"
         },
         {
-            "title": "Director of Operations",
-            "name": "Jane Doe",
-            "description": "7+ years of experience in project management and team leadership. Strong organizational and communication skills",
-            "profile": "/team/c2.png",
+            "title": "Dueño y CEO de Golden Exotic Pets",
+            "name": "Dr.Hector",
+            "description": "Especializta en animales exoticos, con mas de 14 certificaciones para cirugias en ellos. mas de 18 años de experiencia",
+            "profile": "/team/hector.png",
             "link": "/"
         },
         {
-            "title": "Senior SEO Specialist",
-            "name": "Michael Brown",
-            "description": "5+ years of experience in SEO and content creation. Proficient in keyword research and on-page optimization",
+            "title": "Supervizor nocturno",
+            "name": "Dr. Chapatin Jr",
+            "description": "Doctor con mas de 6 años atendiendo animales, especializado en gatos y su psicologia",
             "profile": "/team/c3.png",
             "link": "/"
         }
@@ -27,28 +27,28 @@
     "process":
     [
         {
-            "label": "Consultation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "¿Como funciona la Pension de mascotas?",
+            "content": "Durante la estadia de tu compañero, se le proporcionara cobijo, alimento y cariños. Todo con previa autorizacion tuya incluyendo si estos requieren de algun gasto adicional"
         },
         {
-            "label": "Research",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "¿Que musica ponen durante el dia",
+            "content": "Rock."
         },
         {
-            "label": "Implementation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "¿Cuentan con personal capacitado?",
+            "content": "Si."
         },
         {
-            "label": "Optimization",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "¿Estan abiertos todo el tiempo?",
+            "content": "No, la puerta la cerramos aveces pero la clinica si da servicio 24Hras"
         },
         {
-            "label": "Reporting",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "¿Atienden vivoras?",
+            "content": "Al animal si, a su suegra no."
         },
         {
-            "label": "Improvement",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
+            "label": "¿Puedes poner o quitar preguntas de esta seccion",
+            "content": "Sin pedos."
         }
     ]
 }
